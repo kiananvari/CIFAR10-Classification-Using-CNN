@@ -16,7 +16,7 @@ Before feeding the images into the CNN, some preprocessing steps were applied. T
 ## Documentation
 
 You can see the description of the implementation method in the following file:
-[Click Me](https://linktodocumentation)
+[Click Me]([https://linktodocumentation](https://github.com/kiananvari/CIFAR10-Classification-Using-CNN/blob/main/Documentation.pdf))
 
 
 ## Results
