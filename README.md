@@ -19,7 +19,9 @@ You can see the description of the implementation method in the following file:
 [Click Me](https://linktodocumentation)
 
 
-## Documentation
+## Results
 
-[Documentation](https://linktodocumentation)
+The performance of each CNN architecture was evaluated based on the accuracy achieved on the test set. The best performing architecture was found to be the Inception model, which achieved an accuracy of 94% on the test set. The other architectures also achieved high accuracy, with the worst performing architecture achieving an accuracy of 83%.
+
+![App Screenshot](https://github.com/kiananvari/Back-Propagation-in-Neural-Network/raw/main/Results.png)
 
