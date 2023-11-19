@@ -3,6 +3,9 @@
 In this project, I implemented a Convolutional Neural Network (CNN) for classifying images in the CIFAR-10 dataset. The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 classes, with 6,000 images per class. The objective of the project was to find the best CNN architecture to achieve high accuracy in classification.
 
 
+## Tutoral video
+[Click Me](https://youtu.be/mYTji1DTpqc)
+
 
 ## Dataset
 
